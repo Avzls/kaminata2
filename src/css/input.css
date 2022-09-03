@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.profile-click{
+    display : block;
+}
+.gfg {
+    border-collapse:separate;
+    border-spacing:0 15px;
+}
+.gfg-statement {
+    border-collapse:separate;
+    border-spacing:0 5px;
+}
+.gff {
+    padding-top : 8px;
+    padding-bottom : 8px;
+}
+.gfc {
+    border-collapse:separate;
+    border-spacing:0 11px;
+}
